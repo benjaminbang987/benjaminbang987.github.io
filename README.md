@@ -1,1 +1,3 @@
-# benjaminbang987.github.io
+# Benjamin Bang's Page
+
+Page about Benjamin's work, blogs, learnings and projects.
